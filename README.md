@@ -1,3 +1,3 @@
-# TesteSistema-AtividadeFinal
+# Test System - Bookstore
  
- Sistema de livraria  com cadastro de cliente, realizar pedidos, visualizar clientes/pedidos/livros, entre outros. Com testes unitário e de integrção. 
+ Realizar testes unitários e de integração em um sistema de livraria com cadastro de cliente, realizar pedidos, visualizar clientes/pedidos/livros, leitura de arquivo CSV, entre outros.
